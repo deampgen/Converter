@@ -23,14 +23,14 @@ pip install PyQt5 pillow
 ▶️ Как запустить: 
 
     Клонируй репозиторий:
-git clone https://github.com/ ваше-имя/image-converter.git
+git clone https://github.com/deampgen/Converter.git
  
  
 Перейди в папку проекта:
  
  
 1
-cd image-converter
+cd Converter
  
  
 Установи зависимости:
@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
      
     1
-    python image_converter.py
+    python Converter.py
      
      
      
